@@ -10,5 +10,5 @@
     
 - 家中進度
     - 完成作業
-    - [NER](https://dadalakun25.github.io/R-mumi/week%2010/week10%20hw%20(1).html)
+    - [NER](https://dadalakun25.github.io/R-MUMI2/week_10/week10%20hw%20(1).html)
 
